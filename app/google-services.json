@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981699287667",
+    "project_id": "onsignalpushnotification",
+    "storage_bucket": "onsignalpushnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981699287667:android:44fd18bc986a7fba13e806",
+        "android_client_info": {
+          "package_name": "com.example.onsignalpushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSYz0akZLDEMGKgsa4j9V_zU3hd9V0u_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
